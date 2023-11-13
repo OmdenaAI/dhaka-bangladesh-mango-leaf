@@ -8,13 +8,15 @@ Detect and classify Bangladeshi mango leaf diseases in real-time with our cuttin
 <p align="center">
   <img src="src/tasks/task-4-model-deployment/streamlit/images/streamlit.gif" />
 </p>
-[Link to Model Training Notebook](https://github.com/YeakubSadlil/dhaka-bangladesh-mango-leaf/blob/6da5cf3e9e260c5d2a90bbc4ebc0ec7d7ef54b8d/src/tasks/task-3-model-training/Best-Model/ResNet50/mango-leaf-disease-detection-using-cnn.ipynb)
+
+
+<h3 align = "center"> 👀 Please have a look at our beautiful, well-documented <a href="/src/tasks/task-3-model-training/Best-Model/ResNet50/mango-leaf-disease-detection-using-cnn.ipynb">Notebook</a></h3>
 
 ## Table of Contents
 - [Problem](#problem)
 - [Project Goals](#project-goals)
 - [Data](#data)
-- [Result](#result)
+- [Achievements](#achievements)
 - [Deployment](#deployment)
 - [Project Structure](#project-structure)
 - [Folder Overview](#folder-overview)
@@ -50,7 +52,7 @@ The classes:
 The dataset is split into train and validation sets.
 However, we created a test set and our team has removed the duplicates and augmented images from the original dataset.
 
-## Achievement
+## Achievements
 The model uses a ResNet50 architecture pre-trained on ImageNet weights. The model achieves an accuracy of 99.21% on the test set.
 
 ## Deployment
