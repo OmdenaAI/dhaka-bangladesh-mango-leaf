@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.resnet50 import ResNet50, preprocess_input
 from PIL import Image
 
-st.image('images/omdena-logo.png', width=100)
+st.image('./images/omdenalogo.png', width=100)
 st.markdown('<h2 style="color:black;">Mango Leaf Disease Classification Web App</h2>', unsafe_allow_html=True)
 st.markdown('<h3 style="color:gray;">This app predicts the disease in mango leaves</h3>', unsafe_allow_html=True)
 
