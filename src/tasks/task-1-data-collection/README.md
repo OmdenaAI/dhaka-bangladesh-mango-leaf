@@ -58,4 +58,4 @@
 - **Publication:** [The Indonesian Journal of Electrical Engineering and Computer Science](https://www.data-in-brief.com/article/S2352-3409(23)00059-8/pdf)
 
 ## Note
-- Please refer to the provided links for more details, publications, and citations of each dataset.
+- **Find the dataset used for this project in the "/src/data" folder**.
